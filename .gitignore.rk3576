@@ -1,0 +1,19 @@
+# Large binary models
+models/*.bin
+!models/for-tests-*.bin
+
+# Build directories
+build/
+build_blas/
+
+# Test audio originals (keep only 16k versions)
+test_audio/*.wav
+!test_audio/*_16k.wav
+
+# Temporary files
+*.tmp
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
