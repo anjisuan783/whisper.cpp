@@ -17,3 +17,4 @@ test_audio/*.wav
 # OS files
 .DS_Store
 Thumbs.db
+*.rknn
