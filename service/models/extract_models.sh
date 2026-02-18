@@ -1,0 +1,1 @@
+/home/linaro/project/whisper.cpp/rknn_npu/rknn_whisper_demo/model/extract_models.sh
